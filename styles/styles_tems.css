@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url("../image/paper.png");
+}
+.hatter {
+    background: #256569;
+    height: 200px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.logo_fin {
+    height: 200px;
+    width: 400px;
+}
+.text {
+    /*overflow: scroll;*/
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+    font-size: 22px;
+    /*padding: 5px;*/
+    /*border: solid 1px black;*/
+    /*background: white;*/
+}
+.tem1 {
+    position: absolute;
+    top: 70px;
+    right: 105px;
+    font-size: 45px;
+    color: white;
+}
+.tem2 {
+    position: absolute;
+    top: 70px;
+    right: 35px;
+    font-size: 45px;
+    color: white;
+}
+.title {
+    font-size: 35px;
+}
+.tem3 {
+    position: absolute;
+    top: 70px;
+    right: 55px;
+    font-size: 40px;
+    text-align: center;
+    width: 1000px;
+    color: white;
+}

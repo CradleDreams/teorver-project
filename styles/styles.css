@@ -1,0 +1,57 @@
+html {
+    background-image: url("../image/Fin_fon.png");
+    background-attachment: fixed;
+    background-size: cover;
+}
+table {
+    position: absolute;
+    top: 390px;
+    right: 825px;
+    width: 500px;
+    height: 300px;
+    color: white;
+    border-spacing: 0px 0px;
+}
+td {
+    background: #008b8b;
+    font-size: 15px;
+    padding: 10px;
+    border: 2px solid black;
+    box-shadow: 0 0 100px rgba(0,0,0,0.5);
+}
+input {
+    position: center;
+    width: 100px;
+    font-size: 50px;
+}
+.hat {
+    position: absolute;
+    top: 25px;
+    right: 40px;
+    width: 750px;
+    font-size: 55px;
+    color: white;
+    text-shadow: 0 3px black;
+}
+.author {
+    position: absolute;
+    right: 90px;
+    top: 200px;
+    font-size: 27px;
+    color: white;
+    text-shadow: 0 2px black;
+}
+.logo {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 380px;
+    right: 313px;
+    border-radius: 100px;
+}
+.round_left {
+    border-radius: 10px 0 0 10px;
+}
+.round_right {
+    border-radius: 0 10px 10px 0;
+}

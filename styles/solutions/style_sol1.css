@@ -1,0 +1,70 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url("../../image/paper.png");
+}
+.hatter {
+    background: #256569;
+    height: 200px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.logo_fin {
+    height: 200px;
+    width: 400px;
+}
+.tem1 {
+    position: absolute;
+    top: 70px;
+    right: 105px;
+    font-size: 45px;
+    color: white;
+}
+.inp1_pos {
+    position: absolute;
+    top: 400px;
+    right: 820px;
+    font-size: 20px;
+}
+.inp1 {
+    padding: 10px;
+    width: 215px;
+    height: 25px;
+}
+.inp2_pos {
+    position: absolute;
+    top: 400px;
+    right: 400px;
+    font-size: 20px;
+}
+.inp2 {
+    padding: 10px;
+    width: 215px;
+    height: 25px;
+}
+.pus {
+    position: absolute;
+    top: 590px;
+    right: 680px;
+    width: 90px;
+    height: 25px;
+    font-size: 15px;
+    background-color: #5A98D0;
+}
+.tabl_w {
+    position: absolute;
+    top: 650px;
+    right: 580px;
+    width: 300px;
+    height: auto;
+    background-color: white;
+    font-size: 15px;
+    padding: 10px;
+    resize: none;
+    border: 2px solid black;
+    box-shadow: 0 0 100px rgba(0,0,0,0.5);
+}
